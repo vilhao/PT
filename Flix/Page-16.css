@@ -1,0 +1,116 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 817px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 809px;
+  object-position: 0% 50%;
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 361px;
+  min-height: 471px;
+  height: auto;
+  margin: -774px auto 60px calc(((100% - 1140px) / 2) + 347px);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px 19px 20px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 125px;
+  height: 125px;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 0.875rem;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  background-image: none;
+  align-self: center;
+  margin: 20px auto 0;
+  padding: 0 4px 2px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.5rem;
+  margin: 20px 31px 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  align-self: center;
+  margin: 20px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  animation-duration: 3500ms;
+  font-size: 2em;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.625rem;
+  background-image: none;
+  margin: 20px 27px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 940px) / 2) + 347px);
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 268px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 720px) / 2) + 347px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 540px) / 2) + 179px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 21px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 17px;
+    margin-right: 17px;
+  }
+}
